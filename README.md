@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam Roben</h1>
-<p align="center">I graduated from East West University with a bachelor's degree in computer science and engineering. In addition to my formal education, I recently finished a web programming course with a focus on Front-End Development (React) from the renowned Bangladeshi Ed-tech institution Programming Hero.
+<p>I graduated from East West University with a bachelor's degree in computer science and engineering. In addition to my formal education, I recently finished a web programming course with a focus on Front-End Development (React) from the renowned Bangladeshi Ed-tech institution Programming Hero.
 
 My focus is on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implement firebase authentication with React to provide a secure and reliable user authentication system, integrate MongoDB with React to enable CRUD operations, utilize Express.js to handle JSON data ,utilize JWT (JSON Web Tokens) to implement role-based access control and assigned different roles to users, implement payment systems etc.
 
