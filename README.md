@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam Roben</h1>
-<h3 align="center">
+<p align="center">
 I graduated from East West University with a bachelor's degree in computer science and engineering. In addition to my formal education, I recently finished a web programming course with a focus on Front-End Development (React) from the renowned Bangladeshi Ed-tech institution Programming Hero.
 
 My focus is on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implement firebase authentication with React to provide a secure and reliable user authentication system, integrate MongoDB with React to enable CRUD operations, utilize Express.js to handle JSON data ,utilize JWT (JSON Web Tokens) to implement role-based access control and assigned different roles to users, implement payment systems etc.
@@ -11,7 +11,7 @@ Familiar : TanStack Query, React Hook Form, Node.js, JWT, NPM packages
 Tools: Git, Chat GPT, Chrome Dev Tool, Visual Studio Code, Figma
 
 I am passionate about Full-Stack Engineer and As a Junior Front-End Developer I am also eager to learn from experienced professionals in the industry for future career growth.
-</h3>
+</p>
 
 <img align="right" alt="coding" width="400" src="./programmer.gif">
 
