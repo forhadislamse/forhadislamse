@@ -13,16 +13,16 @@ Familiar : TanStack Query, React Hook Form, Node.js, JWT, NPM packages
 Tools: Git, Chat GPT, Chrome Dev Tool, Visual Studio Code, Figma
 <br/>
 
-I am passionate about <strong>Full-Stack Engineer<strong> and As a Junior Front-End Developer I am also eager to learn from experienced professionals in the industry for future career growth.
+I am passionate about Full-Stack Engineer and As a Junior Front-End Developer I am also eager to learn from experienced professionals in the industry for future career growth.
 </p>
 
 <img align="right" alt="coding" width="400" src="./programmer.gif">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadroben&label=Profile%20views&color=0e75b6&style=flat" alt="forhadroben" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadroben&label=Profile%20views&color=0e75b6&style=flat" alt="forhadroben" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forhadroben" alt="forhadroben" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
 - 🌱 I’m currently learning **Full Stack Development**
 
