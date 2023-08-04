@@ -5,11 +5,15 @@ My focus is on Building Dynamic Web Applications where I can build component-bas
 
 My Skills:<br/>
 Expertise : React, React Router, HTML5, CSS3, Bootstrap, Tailwind CSS, DOM manipulation
+<br/>
 Comportable : JavaScript, ES6, Express.js, Rest APIs, MongoDB, Firebase authentication
+<br/>
 Familiar : TanStack Query, React Hook Form, Node.js, JWT, NPM packages
+<br/>
 Tools: Git, Chat GPT, Chrome Dev Tool, Visual Studio Code, Figma
+<br/>
 
-I am passionate about Full-Stack Engineer and As a Junior Front-End Developer I am also eager to learn from experienced professionals in the industry for future career growth.
+I am passionate about <strong>Full-Stack Engineer<strong> and As a Junior Front-End Developer I am also eager to learn from experienced professionals in the industry for future career growth.
 </p>
 
 <img align="right" alt="coding" width="400" src="./programmer.gif">
