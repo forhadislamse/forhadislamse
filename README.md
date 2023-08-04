@@ -26,9 +26,9 @@ I am passionate about Full-Stack Engineer and As a Junior Front-End Developer I 
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **i.rforhad@gmail.com**
+- 📫 How to reach me : **i.rforhad@gmail.com**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/forhad11/" target="blank" rel="noreferrer">https://www.linkedin.com/</a></h3>
+<p align="left">Connect with me: <a href="https://www.linkedin.com/in/forhad11/" target="_blank" rel="noreferrer">https://www.linkedin.com/</a></p>
 <p align="left">
 </p>
 
