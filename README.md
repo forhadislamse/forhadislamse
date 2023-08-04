@@ -25,9 +25,7 @@ I am passionate about Full-Stack Engineer and As a Junior Front-End Developer I 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-
 - 📫 How to reach me : **i.rforhad@gmail.com**
-
 - 🌱<p align="left">Connect with me: **<a href="https://www.linkedin.com/in/forhad11/" target="_blank" rel="noreferrer"> https://www.linkedin.com/ </a>**</p>
 
 
