@@ -3,7 +3,7 @@
 
 My focus is on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implement firebase authentication with React to provide a secure and reliable user authentication system, integrate MongoDB with React to enable CRUD operations, utilize Express.js to handle JSON data ,utilize JWT (JSON Web Tokens) to implement role-based access control and assigned different roles to users, implement payment systems etc.
 
-My Skills:
+My Skills:<br/>
 Expertise : React, React Router, HTML5, CSS3, Bootstrap, Tailwind CSS, DOM manipulation
 Comportable : JavaScript, ES6, Express.js, Rest APIs, MongoDB, Firebase authentication
 Familiar : TanStack Query, React Hook Form, Node.js, JWT, NPM packages
