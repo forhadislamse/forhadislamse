@@ -5,14 +5,14 @@
 
 I am focused on developing my skills on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implementing authentication with React to provide a secure and reliable user authentication system, integrating MongoDB with React to enable CRUD operations, utilizing Express.js to handle JSON data etc.
 
-- 📫 How to reach me: **i.rforhad@gmail.com**
-
 My Skills:<br/>
 JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoDB, HTML5, CSS3, Tailwind CSS, REST APIs 
-<br/></p>
+<br/>
+- 📫 How to reach me: **i.rforhad@gmail.com**
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadroben&label=Profile%20views&color=0e75b6&style=flat" alt="forhadroben" /> </p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/r0ben/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/forhad11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@forhadRoben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29388026/muhammad-forhad-islam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/forhadroben) 
@@ -23,13 +23,8 @@ JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoD
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=forhadroben&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<div align='center'><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forhadroben&show_icons=true&locale=en&theme=tokyonight" alt="forhadroben" /></p>
-</div>
-
-<div align="center">
-  <p>&nbsp;<img align="center" src="" /></p>
- 
-</div>
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs?username=forhadroben&show_icons=true&locale=en&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=forhadroben&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -37,5 +32,6 @@ JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoD
 ![](https://github-readme-stats.vercel.app/api?username=forhadroben&show_icons=true&locale=en&theme=tokyonight)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadroben&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+
 
 
