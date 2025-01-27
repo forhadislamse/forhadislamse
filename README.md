@@ -12,7 +12,7 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 - 📫 How to reach me: **i.rforhad@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadroben&label=Profile%20views&color=0e75b6&style=flat" alt="forhadroben" /> </p>
-https://x.com/forhadroben
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r0ben/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/forhad11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@forhadRoben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29388026/muhammad-forhad-islam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/forhadroben) 
 
