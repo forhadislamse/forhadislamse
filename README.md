@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam</h1>
-💫 About Me:
+<h1 align="center">💫 About Me:</h1>
 
-<p>I graduated from East West University with a bachelor's degree in computer science and engineering. In addition to my formal education, I recently finished a web programming course with a focus on Front-End Development (React) from the renowned Bangladeshi Ed-tech institution Programming Hero.
+<p>I graduated from East West University with a bachelor's degree in computer science and engineering. I am passionate about Full-Stack Engineering and As a Junior Front-End Developer, I am also eager to learn from experienced professionals in the industry for future career growth.
 
-My focus is on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implement Firebase authentication with React to provide a secure and reliable user authentication system, integrate MongoDB with React to enable CRUD operations, utilize Express.js to handle JSON data, utilize JWT (JSON Web Tokens) to implement role-based access control and assigned different roles to users, implement payment systems, etc.
+My focus is on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implement authentication with React to provide a secure and reliable user authentication system, integrate MongoDB with React to enable CRUD operations, utilize Express.js to handle JSON data, utilize JWT (JSON Web Tokens) to implement role-based access control and assigned different roles to users, implement payment systems, etc.
 
 My Skills:<br/>
-Expertise : React, React Router, HTML5, CSS3, Bootstrap, Tailwind CSS, DOM manipulation
+Expertise : JavaScript(ES6+),React.js,Express.js,Node.js ,React Router,MongoDB HTML5, CSS3, Tailwind CSS, REST APIs, 
 <br/>
-Comportable : JavaScript, ES6, Express.js, Rest APIs, MongoDB, Firebase authentication
+Familiar: React Hook Form, , JWT, Firebase Authentication, NPM packages,
 <br/>
-Familiar: TanStack Query, React Hook Form, Node.js, JWT, NPM packages
-<br/>
-Tools: Git, Chat GPT, Chrome Dev Tool, Visual Studio Code, Figma
+Tools: Git, Chat GPT, Chrome Dev Tool, Visual Studio Code
 <br/>
 
-I am passionate about Full-Stack Engineering and As a Junior Front-End Developer, I am also eager to learn from experienced professionals in the industry for future career growth.
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadroben&label=Profile%20views&color=0e75b6&style=flat" alt="forhadroben" /> </p>
