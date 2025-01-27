@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam</h1>
 <h3 align="left">👨‍💼 About Me:</h3>
 
-<p>I graduated from East West University with a bachelor's degree in computer science and engineering. I am passionate about Full-Stack Engineering and also eager to learn from experienced professionals in the industry for future career growth.🌱 I’m currently learning **Full Stack Development** to enhance my technical expertise in both front-end and back-end technologies.
+<p>I graduated from East West University with a bachelor's degree in computer science and engineering. I'm passionate about Full-Stack Engineering and also eager to learn from experienced professionals.I’m currently learning Full-Stack Development to enhance my technical expertise in both front-end and back-end technologies.
 
-I am focused on developing my skills on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implementing authentication with React to provide a secure and reliable user authentication system, integrating MongoDB with React to enable CRUD operations, utilizing Express.js to handle JSON data etc.
+I am focused on developing my skills on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implementing authentication with React to provide a secure and reliable user authentication system, integrating MongoDB with Mongoose to enable CRUD operations, utilizing Express.js to handle JSON data etc.
 
 Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoDB, HTML5, CSS3, Tailwind CSS, REST APIs 
 <br/>
@@ -26,8 +26,8 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=forhadroben&show_icons=true&locale=en&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forhadroben&show_icons=true&theme=tokyonight)
-### 🔝 github stats
+![](https://github-contributor-stats.vercel.app/api?username=forhadroben&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Github stats
 ![](https://github-readme-stats.vercel.app/api?username=forhadroben&show_icons=true&locale=en&theme=tokyonight)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadroben&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
