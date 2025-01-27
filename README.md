@@ -33,7 +33,8 @@ I am passionate about Full-Stack Engineering and As a Junior Front-End Developer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forhadroben&show_icons=true&locale=en&layout=compact" alt="forhadroben" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forhadroben&show_icons=true&locale=en" alt="forhadroben" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forhadroben&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadroben&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
