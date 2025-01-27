@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam</h1>
-# 💫 About Me:
+💫 About Me:
 
 <p>I graduated from East West University with a bachelor's degree in computer science and engineering. In addition to my formal education, I recently finished a web programming course with a focus on Front-End Development (React) from the renowned Bangladeshi Ed-tech institution Programming Hero.
 
