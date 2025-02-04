@@ -22,12 +22,13 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=forhadislamse&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-📊**Most Used Languages**
+📊**Github Stats**
 
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=forhadislamse&show_icons=true&locale=en&theme=tokyonight" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=forhadislamse&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forhadislamse&layout=pie&show_icons=true&locale=en&theme=tokyonight" />
