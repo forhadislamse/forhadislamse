@@ -30,7 +30,7 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 ### 🔝 Github stats
 ![](https://github-readme-stats.vercel.app/api?username=forhadislamse&show_icons=true&locale=en&theme=tokyonight)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadislamse&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadislamse&theme=tokyonight-light&hide_border=true" alt="GitHub Streak" /></p>
 
 
 
