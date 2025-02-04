@@ -28,7 +28,7 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 
 💻 **Most Used Languages**
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=forhadislamse&show_icons=true&locale=en&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=forhadislamse&layout=pie&show_icons=true&locale=en&theme=tokyonight)
 
 🔝 **Top Contributed Repo**
 
