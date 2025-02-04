@@ -30,7 +30,7 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
       <img src="https://github-readme-stats.vercel.app/api?username=forhadislamse&show_icons=true&locale=en&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forhadislamse&layout=pie&show_icons=true&locale=en&theme=tokyonight" width="300" height="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forhadislamse&layout=pie&show_icons=true&locale=en&theme=tokyonight" />
     </td>
   </tr>
 </table>
