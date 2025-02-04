@@ -22,10 +22,6 @@ Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router
 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=forhadislamse&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
- **Weekly Coding Stats**
-
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=forhadislamse&theme=tokyonight)
-
 📊**Most Used Languages**
 
 <table>
