@@ -5,7 +5,7 @@
 
 I am focused on developing my skills on Building Dynamic Web Applications where I can build component-based user interfaces (UIs), implementing authentication with React to provide a secure and reliable user authentication system, integrating MongoDB with Mongoose to enable CRUD operations, utilizing Express.js to handle JSON data etc.
 
-Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoDB, HTML5, CSS3, Tailwind CSS, REST APIs 
+Skills: JavaScript(ES6+),TypeScript,React.js, Express.js, Node.js , React Router, MongoDB,  Tailwind CSS, REST APIs ,HTML5, CSS3,
 <br/>
 </p>
 
