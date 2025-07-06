@@ -4,15 +4,17 @@
 <p>A self-taught Front-End Developer with a Bachelor’s degree in Computer Science & Engineering from East West University. I’m passionate about building dynamic, responsive, and scalable web applications using React, TypeScript, and modern JavaScript (ES6+).
 
 🛠 Technical Skills:
-JavaScript (ES6+) – Writing clean, efficient, modern code
-TypeScript – Scalable and type-safe development
-React – Reusable components and dynamic interfaces
-Express.js & REST APIs – Backend logic and integration
-MongoDB with Mongoose – Schema-based data modeling
-Firebase – Authentication and hosting
-JWT – Secure, role-based access control
-HTML5, CSS3, Tailwind CSS – Building responsive and accessible UIs
-Git & GitHub – Version control and collaborative workflows
+<ul>
+  <li><strong>JavaScript (ES6+)</strong> – Writing clean, efficient, modern code</li>
+  <li><strong>TypeScript</strong> – Scalable and type-safe development</li>
+  <li><strong>React</strong> – Reusable components and dynamic interfaces</li>
+  <li><strong>Express.js & REST APIs</strong> – Backend logic and integration</li>
+  <li><strong>MongoDB with Mongoose</strong> – Schema-based data modeling</li>
+  <li><strong>Firebase</strong> – Authentication and hosting</li>
+  <li><strong>JWT</strong> – Secure, role-based access control</li>
+  <li><strong>HTML5, CSS3, Tailwind CSS</strong> – Building responsive and accessible UIs</li>
+  <li><strong>Git & GitHub</strong> – Version control and collaborative workflows</li>
+</ul>
 
 I’m eager to grow into a Full-Stack Engineer, contribute to impactful products, and collaborate with experienced teams in fast-paced environments.
 <br/>
