@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Forhad Islam</h1>
 <h3 align="left">👨‍💼 About Me:</h3>
 
-<p>A self-taught Front-End Developer with a Bachelor’s degree in Computer Science & Engineering from East West University. I’m passionate about building dynamic, responsive, and scalable web applications using React, TypeScript, and modern JavaScript (ES6+).
+<p>I am a self-taught Full-Stack Developer with a Bachelor’s degree in Computer Science & Engineering from East West University. I specialize in backend development using Node.js, Express.js, and MongoDB with Mongoose, while also proficient in building dynamic, responsive frontends with React, TypeScript, and modern JavaScript (ES6+). I’m passionate about designing scalable and efficient web applications with robust backend architecture.
 
 🛠 Technical Skills:
 <ul>
@@ -16,7 +16,7 @@
   <li><strong>Git & GitHub</strong> – Version control and collaborative workflows</li>
 </ul>
 
-I’m eager to grow into a Full-Stack Engineer, contribute to impactful products, and collaborate with experienced teams in fast-paced environments.
+I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, and collaborate with experienced teams in fast-paced environments.
 <br/>
 </p>
 
