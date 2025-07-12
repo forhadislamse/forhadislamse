@@ -3,7 +3,7 @@
 
 <p>I am a self-taught Full-Stack Developer with a Bachelor’s degree in Computer Science & Engineering from East West University. I specialize in backend development using Node.js, Express.js, and MongoDB with Mongoose, while also proficient in building dynamic, responsive frontends with React, TypeScript, and modern JavaScript (ES6+). I’m passionate about designing scalable and efficient web applications with robust backend architecture.
 
-🛠 Technical Skills:
+Technical Skills:
 <ul>
   <li><strong>JavaScript (ES6+)</strong> – Writing clean, efficient, modern code</li>
   <li><strong>TypeScript</strong> – Scalable and type-safe development</li>
@@ -25,7 +25,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="forhadislam" /> </p>
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r0ben/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/forhad11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@forhadRoben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29388026/muhammad-forhad-islam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/forhadroben) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r0ben/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/forhad11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@forhadRoben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31023506/forhad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/forhadroben) 
 
 ### 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
