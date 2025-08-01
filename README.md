@@ -20,7 +20,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 <br/>
 </p>
 
-- 📫 How to reach me: **i.rforhad@gmail.com**
+- 📫 How to reach me: **forhadislam.swe@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="forhadislam" /> </p>
 
