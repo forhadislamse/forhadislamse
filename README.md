@@ -45,6 +45,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
   
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="forhadislam" /> </p>
   
   <!-- Repositories -->
   <!-- <img src="https://img.shields.io/github/repos/forhadislamse?label=Repositories&style=flat&color=0e75b6" alt="Repositories"/> -->
