@@ -53,6 +53,12 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
   <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="followers"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/forhadislamse?label=Stars&style=flat&color=0e75b6" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/forhadislamse?label=Repo%20Size&style=flat&color=0e75b6" alt="Repo Size"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
