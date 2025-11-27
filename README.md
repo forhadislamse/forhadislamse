@@ -36,15 +36,21 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABFBC,100:043A54&height=120&section=header&text=Muhammad%20Forhad%20Islam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
-<h2 align="center">Software Engineer</h2>
+<!-- <h2 align="center">Software Engineer</h2> -->
+<h2 align="center">Backend Developer</h2>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems;Node.js+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
 </p> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AhmedHossam777&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedHossam777"/> 
   <img src="https://img.shields.io/github/followers/AhmedHossam777?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+</p> -->
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> 
+  <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="followers"/>
 </p>
 
 ---
