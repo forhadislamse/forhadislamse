@@ -41,7 +41,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 
 <p align="center">
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <!-- <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="Followers"/> -->
   
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
