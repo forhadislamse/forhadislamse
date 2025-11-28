@@ -77,11 +77,11 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=forhadislamse&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=forhadislamse&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=forhadislamse&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadislamse&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadislamse&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
