@@ -58,17 +58,8 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 - 🎓 Backend Developer at **Betopia Group**
 - 🎓 Bachelor’s degree in Computer Science & Engineering from **East West University**
 - 💡 Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
-- 📫 Reach me at **forhadislam.swe@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
-
-  <ul>
-  <li>🌱 <span style="color:#00FF41;">Currently learning <b>Machine Learning</b>, <b>Statistics</b>, and <b>Mathematics</b></span></li>
-  <li>👨‍💻 Backend Developer at <b style="color:#00FF41;">Betopia Group</b></li>
-  <li>🎓 Bachelor’s in CSE from <b style="color:#00FF41;">East West University</b></li>
-  <li>💡 <span style="color:#00FF41;">Focused on building robust backend architectures, contributing to impactful products, and collaborating in fast-paced environments</span></li>
-  <li>📫 Email: <b style="color:#00FF41;">forhadislam.swe@gmail.com</b></li>
-  <li>📄 <a href="https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing" style="color:#00FF41;"><b>View my Resume</b></a></li>
-</ul>
+- 📫 Reach me at: **forhadislam.swe@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
 
 ---
 
