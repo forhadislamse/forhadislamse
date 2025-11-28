@@ -85,7 +85,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forhadislamse&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forhadislamse&theme=chartreuse-dark&hide_border=true" />
 </div>
 
 ---
