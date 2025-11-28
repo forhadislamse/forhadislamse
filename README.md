@@ -84,6 +84,10 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadislamse&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forhadislamse&theme=react-dark&hide_border=true" />
+</div>
+
 ---
 
 ### 🌐 Connect with Me
