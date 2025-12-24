@@ -53,8 +53,8 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 ---
 
 ### 👨‍💻 About Me
-
-- 🌱 Currently learning **Machine Learning**, **Statistics**, and **Mathematics**
+<!-- - 🌱 Currently learning **Machine Learning**, **Statistics**, and **Mathematics** -->
+- 🌱 Currently learning **Data Engineering**
 - 🎓 Backend Developer at **Betopia Group**
 - 🎓 Bachelor’s degree in Computer Science & Engineering from **East West University**
 - 💡 Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
