@@ -99,6 +99,19 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
   <a href="mailto:forhadislam.swe@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://x.com/forhadislamse" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/x/white" 
+    height="40"
+    style="
+      background: rgba(255,255,255,0.08);
+      padding:10px;
+      border-radius:14px;
+      backdrop-filter: blur(6px);
+      box-shadow: 0 0 12px rgba(255,255,255,0.25);
+    "
+  />
+</a>
 </p>
 
 ---
