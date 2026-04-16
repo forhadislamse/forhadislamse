@@ -37,7 +37,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 </div>
 
 <!-- <h2 align="center">Software Engineer</h2> -->
-<h2 align="center">Backend Developer</h2>
+<h2 align="center">Backend-Focused Full-Stack Developer | Node.js, Next.js | API & Scalable Systems</h2>
 
 <p align="center">
   <!-- Followers -->
@@ -54,12 +54,19 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 
 ### 👨‍💻 About Me
 <!-- - 🌱 Currently learning **Machine Learning**, **Statistics**, and **Mathematics** -->
-- 🌱 Currently learning **Data Engineering**
-- 🎓 Backend Developer at **Betopia Group**
-- 🎓 Bachelor’s degree in Computer Science & Engineering from **East West University**
-- 💡 Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
-- 📫 Reach me at: **forhadislam.swe@gmail.com**
+- Currently learning **Data Engineering**
+- Backend Developer at **Betopia Group**
+- Bachelor’s degree in Computer Science & Engineering from **East West University**
+- Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
+- I believe high-quality software is built on strong architectural principles, operational excellence, and long-term thinking. I am committed to continuously refining my skills and contributing to systems that are reliable, scalable, and impactful.
+- Reach me at: **i.rforhad@gmail.com** **forhadislam.swe@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
+### 👨‍💻 Core Skills:
+- Backend & API Design
+- Database Architecture & Performance Optimization
+- Secure Authentication & Authorization
+- AI-assisted Development Workflows
+
 
 ---
 
