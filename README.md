@@ -58,10 +58,10 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 - Backend Developer at **Betopia Group**
 - Bachelor’s degree in Computer Science & Engineering from **East West University**
 - Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
-- I believe high-quality software is built on strong architectural principles, operational excellence, and long-term thinking. I am committed to continuously refining my skills and contributing to systems that are reliable, scalable, and impactful.
+- I believe that high-quality software is rooted in disciplined architectural principles, operational excellence, and forward-thinking strategy. I am committed to advancing my technical craft and contributing to systems that are reliable, scalable, and globally impactful.
 - Reach me at: **i.rforhad@gmail.com** **forhadislam.swe@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
-### 👨‍💻 Core Skills:
+### ⚡ Core Skills:
 - Backend & API Orchestration
 - Database Architecture & Performance Optimization
 - Secure Authentication & Authorization Frameworks
