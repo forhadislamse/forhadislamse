@@ -62,9 +62,9 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 - Reach me at: **i.rforhad@gmail.com** **forhadislam.swe@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
 ### 👨‍💻 Core Skills:
-- Backend & API Design
+- Backend & API Orchestration
 - Database Architecture & Performance Optimization
-- Secure Authentication & Authorization
+- Secure Authentication & Authorization Frameworks
 - AI-assisted Development Workflows
 
 
