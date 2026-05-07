@@ -37,7 +37,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 </div>
 
 <!-- <h2 align="center">Software Engineer</h2> -->
-<h2 align="center">Backend-Focused Full-Stack Developer | Node.js, Next.js | API & Scalable Systems</h2>
+<h2 align="center">Backend-Focused Full-Stack Developer | Node.js, Next.js | API & System Design</h2>
 
 <p align="center">
   <!-- Followers -->
