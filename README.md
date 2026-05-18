@@ -74,7 +74,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,postgres,mongodb,prisma,nodejs,nextjs,expressjs,react,redux,redis,postman,git,github,vscode,css,html,tailwind,bootstrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,postgres,mongodb,prisma,nodejs,nextjs,expressjs,react,redux,redis,postman,git,github,vscode,css,html,tailwind,bootstrap,figma,firebase,notion,npm,vite,pycharm&perline=10" />
   </a>
 </p>
 
