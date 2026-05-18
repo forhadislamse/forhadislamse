@@ -37,7 +37,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 </div>
 
 <!-- <h2 align="center">Software Engineer</h2> -->
-<h2 align="center">Backend-Focused Full-Stack Developer | Node.js, Next.js | API & System Design</h2>
+<h2 align="center">Backend-Focused Full-Stack Developer | Node.js, Next.js, PostgreSQL | API & System Design</h2>
 
 <p align="center">
   <!-- Followers -->
@@ -74,7 +74,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,mongodb,prisma,nodejs,expressjs,react,postman,git,github,vscode,css,html,tailwind,bootstrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,postgres,mongodb,prisma,nodejs,nextjs,expressjs,react,redux,redis,postman,git,github,vscode,css,html,tailwind,bootstrap&perline=10" />
   </a>
 </p>
 
