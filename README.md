@@ -100,7 +100,7 @@ I’m eager to grow as a Full-Stack Engineer, contribute to impactful products, 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/forhad11/" target="_blank">
+  <a href="https://linkedin.com/in/forhadislamse/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:forhadislam.swe@gmail.com" target="_blank">
